@@ -1,2 +1,2 @@
 import torch
-a = torch.ones(2,3)
+a = torch.ones(5,6)
